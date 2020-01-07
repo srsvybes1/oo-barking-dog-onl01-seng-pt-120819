@@ -13,3 +13,5 @@ lassie = Dog.new
 lassie.name = "Lassie"
  
 puts lassie.name
+lassie.bark = "woof!"
+puts lassie.bark
