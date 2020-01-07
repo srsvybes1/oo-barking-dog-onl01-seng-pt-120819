@@ -15,5 +15,6 @@ lassie = Dog.new
 lassie.name = "Lassie"
  
 puts lassie.name
+bark = Dog.new
 lassie.bark = "woof!"
 puts lassie.bark
